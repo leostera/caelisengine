@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<!DOCTYPE CodeBlocks_layout_file>
+<CodeBlocks_layout_file>
+	<File name="cpp\alarm.cpp" open="0" top="0">
+		<Cursor position="164" topLine="0"/>
+	</File>
+	<File name="cpp\event.cpp" open="0" top="0">
+		<Cursor position="1047" topLine="27"/>
+	</File>
+	<File name="cpp\eventfiltering.cpp" open="1" top="0">
+		<Cursor position="641" topLine="18"/>
+	</File>
+	<File name="cpp\fps.cpp" open="0" top="0">
+		<Cursor position="115" topLine="0"/>
+	</File>
+	<File name="cpp\instancehandler.cpp" open="0" top="0">
+		<Cursor position="431" topLine="7"/>
+	</File>
+	<File name="cpp\joystick.cpp" open="1" top="0">
+		<Cursor position="529" topLine="0"/>
+	</File>
+	<File name="cpp\keyboard.cpp" open="1" top="0">
+		<Cursor position="133" topLine="0"/>
+	</File>
+	<File name="cpp\log.cpp" open="1" top="0">
+		<Cursor position="595" topLine="0"/>
+	</File>
+	<File name="cpp\mouse.cpp" open="1" top="0">
+		<Cursor position="821" topLine="0"/>
+	</File>
+	<File name="cpp\multithreading.cpp" open="0" top="0">
+		<Cursor position="3137" topLine="90"/>
+	</File>
+	<File name="cpp\openalmain.cpp" open="0" top="0">
+		<Cursor position="790" topLine="53"/>
+	</File>
+	<File name="cpp\openglmain.cpp" open="1" top="0">
+		<Cursor position="776" topLine="9"/>
+	</File>
+	<File name="cpp\opengltexture.cpp" open="1" top="0">
+		<Cursor position="593" topLine="0"/>
+	</File>
+	<File name="cpp\particle.cpp" open="0" top="0">
+		<Cursor position="1" topLine="0"/>
+	</File>
+	<File name="cpp\particlemanager.cpp" open="0" top="0">
+		<Cursor position="90" topLine="0"/>
+	</File>
+	<File name="cpp\particlesystem.cpp" open="1" top="1">
+		<Cursor position="1146" topLine="3"/>
+	</File>
+	<File name="cpp\renderer.cpp" open="0" top="0">
+		<Cursor position="724" topLine="9"/>
+	</File>
+	<File name="cpp\sdlmain.cpp" open="0" top="0">
+		<Cursor position="63" topLine="0"/>
+	</File>
+	<File name="cpp\soundlistener.cpp" open="0" top="0">
+		<Cursor position="74" topLine="0"/>
+	</File>
+	<File name="cpp\soundsample.cpp" open="0" top="0">
+		<Cursor position="98" topLine="0"/>
+	</File>
+	<File name="cpp\system.cpp" open="1" top="0">
+		<Cursor position="1809" topLine="56"/>
+	</File>
+	<File name="cpp\timer.cpp" open="0" top="0">
+		<Cursor position="265" topLine="68"/>
+	</File>
+	<File name="h\CaelisEngine.h" open="1" top="0">
+		<Cursor position="1328" topLine="42"/>
+	</File>
+	<File name="h\audio\audio.h" open="0" top="0">
+		<Cursor position="523" topLine="2"/>
+	</File>
+	<File name="h\base_system.h" open="1" top="0">
+		<Cursor position="1435" topLine="0"/>
+	</File>
+	<File name="h\core\exception.h" open="0" top="0">
+		<Cursor position="5404" topLine="0"/>
+	</File>
+	<File name="h\core\instance_base.h" open="0" top="0">
+		<Cursor position="787" topLine="6"/>
+	</File>
+	<File name="h\core\instance_main.h" open="0" top="0">
+		<Cursor position="887" topLine="5"/>
+	</File>
+	<File name="h\core\io.h" open="0" top="0">
+		<Cursor position="23" topLine="0"/>
+	</File>
+	<File name="h\core\io\event.h" open="0" top="0">
+		<Cursor position="509" topLine="0"/>
+	</File>
+	<File name="h\core\io\eventfilter.h" open="1" top="0">
+		<Cursor position="458" topLine="6"/>
+	</File>
+	<File name="h\core\io\joystick.h" open="1" top="0">
+		<Cursor position="1410" topLine="44"/>
+	</File>
+	<File name="h\core\io\keyboard.h" open="1" top="0">
+		<Cursor position="438" topLine="10"/>
+	</File>
+	<File name="h\core\io\mouse.h" open="1" top="0">
+		<Cursor position="307" topLine="12"/>
+	</File>
+	<File name="h\core\log.h" open="0" top="0">
+		<Cursor position="798" topLine="6"/>
+	</File>
+	<File name="h\core\multithread_main.h" open="0" top="0">
+		<Cursor position="519" topLine="0"/>
+	</File>
+	<File name="h\core\patterns.h" open="0" top="0">
+		<Cursor position="35" topLine="0"/>
+	</File>
+	<File name="h\core\patterns\singleton.h" open="0" top="0">
+		<Cursor position="802" topLine="11"/>
+	</File>
+	<File name="h\core\time_alarm.h" open="0" top="0">
+		<Cursor position="411" topLine="8"/>
+	</File>
+	<File name="h\core\time_timer.h" open="0" top="0">
+		<Cursor position="874" topLine="9"/>
+	</File>
+	<File name="h\net\net_client.h" open="0" top="0">
+		<Cursor position="643" topLine="24"/>
+	</File>
+	<File name="h\net\net_main.h" open="0" top="0">
+		<Cursor position="341" topLine="0"/>
+	</File>
+	<File name="h\net\net_server.h" open="0" top="0">
+		<Cursor position="595" topLine="15"/>
+	</File>
+	<File name="h\resources\gfx_image.h" open="0" top="0">
+		<Cursor position="2294" topLine="17"/>
+	</File>
+	<File name="h\resources\gfx_sprite.h" open="0" top="0">
+		<Cursor position="1060" topLine="0"/>
+	</File>
+	<File name="h\resources\main.h" open="0" top="0">
+		<Cursor position="480" topLine="0"/>
+	</File>
+	<File name="h\resources\sfx_sound.h" open="0" top="0">
+		<Cursor position="731" topLine="5"/>
+	</File>
+	<File name="h\scene\main.h" open="0" top="0">
+		<Cursor position="97" topLine="0"/>
+	</File>
+	<File name="h\scene\particlemanager.h" open="0" top="0">
+		<Cursor position="335" topLine="0"/>
+	</File>
+	<File name="h\scene\particlesys.h" open="0" top="0">
+		<Cursor position="1042" topLine="8"/>
+	</File>
+	<File name="h\video\glbasics.h" open="0" top="0">
+		<Cursor position="65" topLine="0"/>
+	</File>
+	<File name="h\video\glbasics\gl_array.h" open="0" top="0">
+		<Cursor position="580" topLine="0"/>
+	</File>
+	<File name="h\video\glbasics\gl_renderdata.h" open="0" top="0">
+		<Cursor position="512" topLine="0"/>
+	</File>
+	<File name="h\video\glbasics\gl_texture.h" open="1" top="0">
+		<Cursor position="0" topLine="0"/>
+	</File>
+	<File name="h\video\glbasics\gl_vector.h" open="0" top="0">
+		<Cursor position="1782" topLine="46"/>
+	</File>
+	<File name="h\video\glmain.h" open="1" top="0">
+		<Cursor position="325" topLine="0"/>
+	</File>
+	<File name="h\video\glrender.h" open="0" top="0">
+		<Cursor position="325" topLine="0"/>
+	</File>
+	<File name="h\video\sdlmain.h" open="1" top="0">
+		<Cursor position="786" topLine="12"/>
+	</File>
+</CodeBlocks_layout_file>

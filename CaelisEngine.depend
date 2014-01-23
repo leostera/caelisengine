@@ -1,0 +1,533 @@
+# depslib dependency file v1.0
+1168887173 g:\gamedev\c++\proyectos\caelis engine\source\cpp\alarm.cpp
+	"../h/CaelisEngine.h"
+
+1169058580 g:\gamedev\c++\proyectos\caelis engine\source\h\caelisengine.h
+	"../../dependencies/SDL/SDL.h"
+	"../../dependencies/SDL/SDL_image.h"
+	"../../dependencies/OpenGL/gl.h"
+	"../../dependencies/OpenGL/glu.h"
+	"../../dependencies/OpenGL/glext.h"
+	"../../dependencies/OpenAL/al.h"
+	"../../dependencies/OpenAL/alut.h"
+	"../../dependencies/OpenAL/alctypes.h"
+	"../../dependencies/OpenAL/altypes.h"
+	"../../dependencies/OpenAL/alc.h"
+	<stdlib.h>
+	<fstream>
+	<stdarg.h>
+	<ctime>
+	<string>
+	<map>
+	<vector>
+	<list>
+	<math.h>
+	<windows.h>
+	<wingdi.h>
+	"core/patterns.h"
+	"core/time_timer.h"
+	"core/time_alarm.h"
+	"core/log.h"
+	"core/multithread_main.h"
+	"core/io.h"
+	"scene/scenemanager.h"
+	"video/videomanager.h"
+	"audio/basics.h"
+	"audio/audio.h"
+	"resources/resourcemanager.h"
+	"core/instance_base.h"
+	"core/instancemanager.h"
+	"base_system.h"
+
+1151381864 g:\gamedev\c++\proyectos\caelis engine\dependencies\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1151381864 g:\gamedev\c++\proyectos\caelis engine\dependencies\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1151381866 g:\gamedev\c++\proyectos\caelis engine\dependencies\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1151381866 g:\gamedev\c++\proyectos\caelis engine\dependencies\sdl\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1151381866 g:\gamedev\c++\proyectos\caelis engine\dependencies\sdl\sdl_platform.h
+
+1151381860 g:\gamedev\c++\proyectos\caelis engine\dependencies\sdl\begin_code.h
+
+1151381862 g:\gamedev\c++\proyectos\caelis engine\dependencies\sdl\close_code.h
+
+1151381862 g:\gamedev\c++\proyectos\caelis engine\dependencies\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1151381864 g:\gamedev\c++\proyectos\caelis engine\dependencies\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1151381864 g:\gamedev\c++\proyectos\caelis engine\dependencies\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1151381866 g:\gamedev\c++\proyectos\caelis engine\dependencies\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1151381866 g:\gamedev\c++\proyectos\caelis engine\dependencies\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1151381866 g:\gamedev\c++\proyectos\caelis engine\dependencies\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1151381862 g:\gamedev\c++\proyectos\caelis engine\dependencies\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1151381864 g:\gamedev\c++\proyectos\caelis engine\dependencies\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1151381864 g:\gamedev\c++\proyectos\caelis engine\dependencies\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1151381862 g:\gamedev\c++\proyectos\caelis engine\dependencies\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1151381864 g:\gamedev\c++\proyectos\caelis engine\dependencies\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1151381864 g:\gamedev\c++\proyectos\caelis engine\dependencies\sdl\sdl_keysym.h
+
+1151381864 g:\gamedev\c++\proyectos\caelis engine\dependencies\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1151381866 g:\gamedev\c++\proyectos\caelis engine\dependencies\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1151381864 g:\gamedev\c++\proyectos\caelis engine\dependencies\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1151381866 g:\gamedev\c++\proyectos\caelis engine\dependencies\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1151381864 g:\gamedev\c++\proyectos\caelis engine\dependencies\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1151381866 g:\gamedev\c++\proyectos\caelis engine\dependencies\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1151381866 g:\gamedev\c++\proyectos\caelis engine\dependencies\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1105988648 g:\gamedev\c++\proyectos\caelis engine\dependencies\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1156020820 g:\gamedev\c++\proyectos\caelis engine\dependencies\opengl\gl.h
+
+1168276847 g:\gamedev\c++\proyectos\caelis engine\dependencies\opengl\glu.h
+	<GL/gl.h>
+
+1156020820 g:\gamedev\c++\proyectos\caelis engine\dependencies\opengl\glext.h
+	<windows.h>
+
+1005172380 g:\gamedev\c++\proyectos\caelis engine\dependencies\openal\al.h
+	"altypes.h"
+
+994986338 g:\gamedev\c++\proyectos\caelis engine\dependencies\openal\altypes.h
+
+1165490173 g:\gamedev\c++\proyectos\caelis engine\dependencies\openal\alut.h
+	<alc.h>
+	<al.h>
+	"alc.h"
+	"al.h"
+	"al.h"
+	"alc.h"
+
+1005172380 g:\gamedev\c++\proyectos\caelis engine\dependencies\openal\alc.h
+	"altypes.h"
+	"alctypes.h"
+
+994986338 g:\gamedev\c++\proyectos\caelis engine\dependencies\openal\alctypes.h
+
+1168887241 g:\gamedev\c++\proyectos\caelis engine\source\h\core\time_timer.h
+	"../CaelisEngine.h"
+	"patterns/singleton.h"
+
+1169046738 g:\gamedev\c++\proyectos\caelis engine\source\h\core\time_alarm.h
+	"../CaelisEngine.h"
+
+1169046852 g:\gamedev\c++\proyectos\caelis engine\source\h\core\log.h
+	"../CaelisEngine.h"
+
+1168701093 g:\gamedev\c++\proyectos\caelis engine\source\h\core\sdl_fps.h
+	"../CaelisEngine.h"
+
+1168701099 g:\gamedev\c++\proyectos\caelis engine\source\h\core\sdlmain.h
+	"../CaelisEngine.h"
+
+1169046828 g:\gamedev\c++\proyectos\caelis engine\source\h\core\multithread_main.h
+	"../CaelisEngine.h"
+
+1168966120 g:\gamedev\c++\proyectos\caelis engine\source\h\core\io.h
+	"io/event.h"
+	"io/eventfilter.h"
+	"io/keyboard.h"
+	"io/mouse.h"
+	"io/joystick.h"
+
+1169047141 g:\gamedev\c++\proyectos\caelis engine\source\h\core\io\eventfilter.h
+	"../../CaelisEngine.h"
+	"../patterns/singleton.h"
+
+1169047238 g:\gamedev\c++\proyectos\caelis engine\source\h\core\io\keyboard.h
+	"../../CaelisEngine.h"
+	"../patterns/singleton.h"
+
+1169047266 g:\gamedev\c++\proyectos\caelis engine\source\h\core\io\mouse.h
+	"../../CaelisEngine.h"
+	"../patterns/singleton.h"
+
+1169047180 g:\gamedev\c++\proyectos\caelis engine\source\h\core\io\joystick.h
+	"../../CaelisEngine.h"
+	"../patterns/singleton.h"
+
+1169057682 g:\gamedev\c++\proyectos\caelis engine\source\h\scene\main.h
+	"fps.h"
+	"mesh.h"
+	"particlemanager.h"
+	"nodemanager.h"
+	"...manager.h"
+
+1168701456 g:\gamedev\c++\proyectos\caelis engine\source\h\scene\particle.h
+	"../CaelisEngine.h"
+	"../video/glbasics/gl_vector.h"
+	"../video/glbasics/gl_color.h"
+
+1168795630 g:\gamedev\c++\proyectos\caelis engine\source\h\video\glbasics\gl_vector.h
+	"../../CaelisEngine.h"
+
+1168701375 g:\gamedev\c++\proyectos\caelis engine\source\h\video\glbasics\gl_color.h
+	"../../CaelisEngine.h"
+
+1169048877 g:\gamedev\c++\proyectos\caelis engine\source\h\scene\particlesys.h
+	"../video/glbasics/gl_texture.h"
+	"particle.h"
+
+1168701334 g:\gamedev\c++\proyectos\caelis engine\source\h\video\glbasics\gl_texture.h
+	"../../CaelisEngine.h"
+
+1169057871 g:\gamedev\c++\proyectos\caelis engine\source\h\video\glmain.h
+	"../CaelisEngine.h"
+	"glrender.h"
+
+1169057887 g:\gamedev\c++\proyectos\caelis engine\source\h\video\glrender.h
+	"../CaelisEngine.h"
+	"glbasics.h"
+
+1169059278 g:\gamedev\c++\proyectos\caelis engine\source\h\video\glbasics\gl_renderdata.h
+	"../../CaelisEngine.h"
+
+1166977718 g:\gamedev\c++\proyectos\caelis engine\source\h\audio\basics.h
+	"albasics/al_listener.h"
+
+1169046518 g:\gamedev\c++\proyectos\caelis engine\source\h\audio\albasics\al_listener.h
+	"../../CaelisEngine.h"
+
+1169046494 g:\gamedev\c++\proyectos\caelis engine\source\h\audio\audio.h
+	"../CaelisEngine.h"
+
+1169051993 g:\gamedev\c++\proyectos\caelis engine\source\h\resources\main.h
+	"resource.h"
+	"gfx_image.h"
+	"gfx_sprite.h"
+	"sfx_sound.h"
+
+1169048168 g:\gamedev\c++\proyectos\caelis engine\source\h\resources\sfx_sound.h
+	"../CaelisEngine.h"
+
+1169048247 g:\gamedev\c++\proyectos\caelis engine\source\h\resources\gfx_image.h
+	"../CaelisEngine.h"
+
+1169048164 g:\gamedev\c++\proyectos\caelis engine\source\h\resources\gfx_sprite.h
+	"../CaelisEngine.h"
+
+1169058904 g:\gamedev\c++\proyectos\caelis engine\source\h\core\instance_base.h
+	"../CaelisEngine.h"
+
+1169046879 g:\gamedev\c++\proyectos\caelis engine\source\h\core\instance_main.h
+	"../CaelisEngine.h"
+	"instance_base.h"
+
+1169049173 g:\gamedev\c++\proyectos\caelis engine\source\h\base_system.h
+	"CaelisEngine.h"
+
+1168791856 g:\gamedev\c++\proyectos\caelis engine\source\cpp\dllmain.cpp
+	"../h/CaelisEngine.h"
+
+1168971286 g:\gamedev\c++\proyectos\caelis engine\source\cpp\eventfiltering.cpp
+	"../h/CaelisEngine.h"
+
+1168966352 g:\gamedev\c++\proyectos\caelis engine\source\cpp\fps.cpp
+	"../h/CaelisEngine.h"
+
+1168968948 g:\gamedev\c++\proyectos\caelis engine\source\cpp\instancehandler.cpp
+	"../h/CaelisEngine.h"
+
+1168974244 g:\gamedev\c++\proyectos\caelis engine\source\cpp\keyboard.cpp
+	"../h/CaelisEngine.h"
+
+1168974976 g:\gamedev\c++\proyectos\caelis engine\source\cpp\log.cpp
+	"../h/CaelisEngine.h"
+
+1169057491 g:\gamedev\c++\proyectos\caelis engine\source\cpp\mesh.cpp
+	"../h/CaelisEngine.h"
+
+1168971849 g:\gamedev\c++\proyectos\caelis engine\source\cpp\mouse.cpp
+	"../h/CaelisEngine.h"
+
+1168968193 g:\gamedev\c++\proyectos\caelis engine\source\cpp\multithreading.cpp
+	"../h/CaelisEngine.h"
+
+1168968301 g:\gamedev\c++\proyectos\caelis engine\source\cpp\openalmain.cpp
+	"../h/CaelisEngine.h"
+
+1168972616 g:\gamedev\c++\proyectos\caelis engine\source\cpp\openglmain.cpp
+	"../h/CaelisEngine.h"
+
+1168973073 g:\gamedev\c++\proyectos\caelis engine\source\cpp\opengltexture.cpp
+	"../h/CaelisEngine.h"
+
+1168791856 g:\gamedev\c++\proyectos\caelis engine\source\cpp\particle.cpp
+	"../h/CaelisEngine.h"
+
+1168972834 g:\gamedev\c++\proyectos\caelis engine\source\cpp\particlesystem.cpp
+	"../h/CaelisEngine.h"
+
+1169057989 g:\gamedev\c++\proyectos\caelis engine\source\cpp\renderer.cpp
+	"../h/video/glrender.h"
+
+1167362876 g:\gamedev\c++\proyectos\caelis engine\source\cpp\singleton.cpp
+
+1168968715 g:\gamedev\c++\proyectos\caelis engine\source\cpp\soundlistener.cpp
+	"../h/CaelisEngine.h"
+
+1169049320 g:\gamedev\c++\proyectos\caelis engine\source\cpp\soundsample.cpp
+	"../h/CaelisEngine.h"
+
+1169049648 g:\gamedev\c++\proyectos\caelis engine\source\cpp\system.cpp
+	"../h/CaelisEngine.h"
+
+1168887222 g:\gamedev\c++\proyectos\caelis engine\source\cpp\timer.cpp
+	"../h/CaelisEngine.h"
+
+1168968696 g:\gamedev\c++\proyectos\caelis engine\source\cpp\sdlmain.cpp
+	"../h/CaelisEngine.h"
+
+1168962402 g:\gamedev\c++\proyectos\caelis engine\source\h\scene\particlemanager.h
+	"particlesys.h"
+
+1168968499 g:\gamedev\c++\proyectos\caelis engine\source\cpp\particlemanager.cpp
+	"../h/CaelisEngine.h"
+
+1168968063 g:\gamedev\c++\proyectos\caelis engine\source\cpp\joystick.cpp
+	"../h/CaelisEngine.h"
+
+1169054748 g:\gamedev\c++\proyectos\caelis engine\source\h\video\glbasics\gl_array.h
+	"../../CaelisEngine.h"
+	"gl_vector.h"
+	"gl_uvmap.h"
+	"gl_triangle.h"
+	"gl_normal.h"
+	"gl_index.h"
+	"gl_color.h"
+	"gl_texture.h"
+
+1168701319 g:\gamedev\c++\proyectos\caelis engine\source\h\video\glbasics\gl_uvmap.h
+	"../../CaelisEngine.h"
+
+1168701328 g:\gamedev\c++\proyectos\caelis engine\source\h\video\glbasics\gl_triangle.h
+	"../../CaelisEngine.h"
+	"gl_vector.h"
+
+1168701349 g:\gamedev\c++\proyectos\caelis engine\source\h\video\glbasics\gl_normal.h
+	"../../CaelisEngine.h"
+
+1168701357 g:\gamedev\c++\proyectos\caelis engine\source\h\video\glbasics\gl_index.h
+	"../../CaelisEngine.h"
+
+1168879792 g:\gamedev\c++\proyectos\caelis engine\source\h\core\patterns.h
+	"patterns/singleton.h"
+
+1169048831 g:\gamedev\c++\proyectos\caelis engine\source\h\core\patterns\singleton.h
+
+1169047004 g:\gamedev\c++\proyectos\caelis engine\source\h\core\io\event.h
+	"../../CaelisEngine.h"
+
+1169049231 g:\gamedev\c++\proyectos\caelis engine\source\h\scene\fps.h
+	"../CaelisEngine.h"
+
+1168972589 g:\gamedev\c++\proyectos\caelis engine\source\h\video\sdlmain.h
+	"../CaelisEngine.h"
+
+1168967596 g:\gamedev\c++\proyectos\caelis engine\source\cpp\event.cpp
+	"../h/CaelisEngine.h"
+
+1169049664 g:\gamedev\c++\proyectos\caelis engine\source\h\resources\resource.h
+	"../CaelisEngine.h"
+
+1169052026 g:\gamedev\c++\proyectos\caelis engine\source\h\video\main.h
+	"glmain.h"
+	"sdlmain.h"
+
+1169058100 g:\gamedev\c++\proyectos\caelis engine\source\cpp\scenemanager.cpp
+	"../h/CaelisEngine.h"
+
+1169057943 g:\gamedev\c++\proyectos\caelis engine\source\h\scene\mesh.h
+	"../CaelisEngine.h"
+	"../video/glbasics.h"
+
+1169057879 g:\gamedev\c++\proyectos\caelis engine\source\h\video\glbasics.h
+	"glbasics/gl_vector.h"
+	"glbasics/gl_uvmap.h"
+	"glbasics/gl_triangle.h"
+	"glbasics/gl_normal.h"
+	"glbasics/gl_index.h"
+	"glbasics/gl_color.h"
+	"glbasics/gl_texture.h"
+	"glbasics/gl_renderdata.h"
+
+1169057682 g:\gamedev\c++\proyectos\caelis engine\source\h\scene\scenemanager.h
+	"fps.h"
+	"mesh.h"
+	"particlemanager.h"
+	"nodemanager.h"
+	"...manager.h"
+
+1169052026 g:\gamedev\c++\proyectos\caelis engine\source\h\video\videomanager.h
+	"glmain.h"
+	"sdlmain.h"
+
+1169051993 g:\gamedev\c++\proyectos\caelis engine\source\h\resources\resourcemanager.h
+	"resource.h"
+	"gfx_image.h"
+	"gfx_sprite.h"
+	"sfx_sound.h"
+
+1169058954 g:\gamedev\c++\proyectos\caelis engine\source\h\core\instancemanager.h
+	"../CaelisEngine.h"
+	"instance_base.h"
+
+1169059016 g:\gamedev\c++\proyectos\caelis engine\source\cpp\instancemanager.cpp
+	"../h/CaelisEngine.h"
+
+1169058285 g:\gamedev\c++\proyectos\caelis engine\source\cpp\resourcemanager.cpp
+	"../h/CaelisEngine.h"
+
+1168973073 g:\gamedev\c++\proyectos\caelis engine\source\cpp\texture.cpp
+	"../h/CaelisEngine.h"
+
+1169058388 g:\gamedev\c++\proyectos\caelis engine\source\cpp\videomanager.cpp
+	"../h/CaelisEngine.h"
+

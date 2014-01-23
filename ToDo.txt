@@ -1,0 +1,2 @@
+Reimplementar la clase System.
+Implementar SceneManager, VideoManager y terminar ResourceManager.
